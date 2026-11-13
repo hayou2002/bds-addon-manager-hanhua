@@ -1,0 +1,13 @@
+# 开发过程产物（反编译参考、解包结果、测试用 exe）
+work/
+
+# 生成的可执行文件
+outputs/
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# oil-diff 汇报页（本地生成）
+.oil-diff/
